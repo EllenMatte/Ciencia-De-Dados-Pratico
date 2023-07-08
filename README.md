@@ -1,16 +1,12 @@
-# CienciaDeDadosPratico
-Projeto pratico de Ciência de Dados: Preços das matérias-primas agrícolas (1990-2020).
+Bem-vindo(a) ao repositório de Ciência de Dados! Aqui você encontrará uma coleção de códigos, tutoriais, exemplos e recursos relacionados à área da Ciência de Dados.
+Este repositório foi criado com o objetivo de fornecer um conjunto abrangente de materiais para estudantes, entusiastas e profissionais da área de Ciência de Dados. Ele abrange uma variedade de tópicos e técnicas relevantes para a análise, visualização e modelagem de dados.
+O repositório contém os seguintes recursos:
+- Notebooks Jupyter com exemplos práticos de análise de dados, aprendizado de máquina, visualização e processamento de dados.
+- Conjuntos de dados de exemplo para experimentação e prática.
+- Tutoriais passo a passo para aprender conceitos e técnicas de Ciência de Dados.
+- Implementações de algoritmos comumente usados em Ciência de Dados.
+- Recursos e links úteis para aprofundar o conhecimento em Ciência de Dados.
 
-ANALISE DESCRITIVA EM PYTHON
+Se você tiver alguma sugestão, correção ou adição para este repositório, sinta-se à vontade para contribuir. Abra uma issue ou envie uma solicitação de pull e vamos tornar este repositório cada vez mais valioso para a comunidade de Ciência de Dados.
 
-##Inferências e Conclusão##
-* Descobrimos as matérias-primas de alta e baixa gama de acordo com seus preços.
-* alta e baixa % de variação dos materiais
-* Pudemos identificar a variação de preços ao longo dos anos.
-* Correlação entre eles usando um mapa de calor
-
-##Trabalho futuro##
-*  Além disso, poderíamos descobrir a relação entre as matérias-primas em detalhes e, com a ajuda do conhecimento do negócio, poderíamos descobrir as matérias-primas mais próximas.
-*  Também pudemos prever os preços das matérias-primas analisando os anos anteriores
-
-* Prevendo a variação de preços e com base nisso, poderíamos planejar nosso uso de matéria-prima com antecedência para o próximo ano e descobrir quaisquer materiais alternativos.
+Esperamos que este repositório seja útil e ajude você em sua jornada na Ciência de Dados. Explore, aprenda e divirta-se com a análise e modelagem de dados!
