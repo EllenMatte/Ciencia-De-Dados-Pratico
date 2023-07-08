@@ -1,5 +1,7 @@
 Bem-vindo(a) ao repositório de Ciência de Dados! Aqui você encontrará uma coleção de códigos, tutoriais, exemplos e recursos relacionados à área da Ciência de Dados.
+
 Este repositório foi criado com o objetivo de fornecer um conjunto abrangente de materiais para estudantes, entusiastas e profissionais da área de Ciência de Dados. Ele abrange uma variedade de tópicos e técnicas relevantes para a análise, visualização e modelagem de dados.
+
 O repositório contém os seguintes recursos:
 - Notebooks Jupyter com exemplos práticos de análise de dados, aprendizado de máquina, visualização e processamento de dados.
 - Conjuntos de dados de exemplo para experimentação e prática.
