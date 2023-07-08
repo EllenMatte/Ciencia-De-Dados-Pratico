@@ -1,5 +1,5 @@
 # CienciaDeDadosPratico
-Projeto pratico de Ciência de Dados!
+Projeto pratico de Ciência de Dados: Preços das matérias-primas agrícolas (1990-2020).
 
 ##Inferências e Conclusão##
 * Descobrimos as matérias-primas de alta e baixa gama de acordo com seus preços.
