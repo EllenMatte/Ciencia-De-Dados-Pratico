@@ -1,6 +1,8 @@
 # CienciaDeDadosPratico
 Projeto pratico de Ciência de Dados: Preços das matérias-primas agrícolas (1990-2020).
 
+ANALISE DESCRITIVA EM PYTHON
+
 ##Inferências e Conclusão##
 * Descobrimos as matérias-primas de alta e baixa gama de acordo com seus preços.
 * alta e baixa % de variação dos materiais
