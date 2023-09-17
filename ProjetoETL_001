@@ -1,0 +1,5 @@
+PROJETO ETL COM AS SEGUINTES BIBLIOTECAS PYTHON
+*os #Manipulação de arquivos
+*pandas as pd #Biblioteca popular do Python para ETL(Ciencia de Dados)
+*chardet as cd #Identifica a codificação do código
+
